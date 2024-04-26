@@ -1,0 +1,5 @@
+.mono/
+bin/
+obj/
+
+*.sln
